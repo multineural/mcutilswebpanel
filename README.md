@@ -1,5 +1,5 @@
 # mcutilswebpanel
-This is the beginning of a set of tools server operators can use to monitor
+no longer active - This was the beginning of a set of tools server operators can use to monitor
 and get information about who is playing on their minecraft servers and 
 events from the log file etc
 
